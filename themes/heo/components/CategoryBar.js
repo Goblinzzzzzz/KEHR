@@ -55,11 +55,7 @@ export default function CategoryBar(props) {
             <ChevronDoubleRight className={'w-5 h-5'} />
           )}
         </div>
-        <Link
-          href='/category'
-          className='whitespace-nowrap font-bold text-gray-900 dark:text-white transition-colors duration-200 hover:text-indigo-600 dark:hover:text-yellow-600'>
-          {locale.MENU.CATEGORY}
-        </Link>
+        
       </div>
     </div>
   )
