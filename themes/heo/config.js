@@ -30,7 +30,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '助力业务赢',
   HEO_HERO_TITLE_3: 'KEHR.WORK 2025',
   HEO_HERO_TITLE_4: 'HR加速营',
-  HEO_HERO_TITLE_5: '加速专业成长·赋能业务落地·陪伴组织共成长',
+  HEO_HERO_TITLE_5: '加速成长·赋能落地·陪伴成长',
   HEO_HERO_TITLE_LINK: 'https://kehr.work',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
